@@ -22,7 +22,7 @@ a:hover {
     padding: 1rem;
 }
 
-#description, #review {
+#description, #review, #projects {
     font-size: 2rem;
     color: black;
 }
