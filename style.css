@@ -18,6 +18,15 @@ a:hover {
     cursor: pointer;
 }
 
+.p-1 {
+    padding: 1rem;
+}
+
+#description, #review {
+    font-size: 2rem;
+    color: black;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
