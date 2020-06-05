@@ -1,3 +1,10 @@
+*:focus {
+    padding: 1rem;
+    background-color: yellow !important;
+    border: solid 2px #66afe9;
+    border-radius: 1rem;
+}
+
 body {
     margin: 0;
     padding: 0;
